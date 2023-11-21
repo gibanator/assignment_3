@@ -3,5 +3,3 @@
 
 # Ignore output files
 *.ipynb_checkpoints/
-*.html
-*.py
